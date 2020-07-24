@@ -1,4 +1,4 @@
-# Predict_bank_clients
+# Predicting whether bank clients left
 
 This repository contains a project that predicts whether the customer left the bank or not.
 
