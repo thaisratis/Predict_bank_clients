@@ -8,6 +8,6 @@ The prediction was performed with classification algorithms:
 - Artificial Neural Network (ANN);
 - Gradient Boosted Decision Trees (Xgboost).
 
-Also I performed a over-sampling technique using:
+Also, the database is unbalanced. Thus, I performed an over-sampling techniques to create synthetic examples using:
 - Synthetic Minority Oversampling Technique (SMOTE);
 - Adaptive Synthetic (ADASYN).
