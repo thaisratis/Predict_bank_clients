@@ -9,5 +9,6 @@ The prediction was performed with classification algorithms:
 - Gradient Boosted Decision Trees (Xgboost).
 
 Also, the database is unbalanced. Thus, I performed an over-sampling techniques to create synthetic examples using:
+- Naive random over-sampling (RandomOverSampler);
 - Synthetic Minority Oversampling Technique (SMOTE);
 - Adaptive Synthetic (ADASYN).
